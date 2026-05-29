@@ -4,8 +4,7 @@
 
 **Curso:** Bacharelado em Ciência da Computação — IFPA Campus Tucuruí
 **Professor:** Prof. Douglas Bechara
-**Aluno:** Davi Lucas Alves Silva
-
+**Aluno:** Mauro Pereira Vieira 
 
 
 #  Sobre o Projeto
